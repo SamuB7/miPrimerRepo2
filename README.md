@@ -7,4 +7,4 @@ una actualización mas desde la terminal
 
 probando ultima actualizacion
 
-Un commit más desde Github
+Un commit más desde Github actualizado
