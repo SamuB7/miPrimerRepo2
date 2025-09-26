@@ -2,4 +2,4 @@
 
 mi primer repo 2
 
-mi primera contribución local para Github
+mi primera contribución local para Github desde pc
